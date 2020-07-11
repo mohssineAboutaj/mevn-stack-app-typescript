@@ -1,0 +1,20 @@
+{
+	"name": "mevn-stack-app-ts",
+	"version": "1.0.0",
+	"description": "A simple posts app (like todo list app), build using MEVN stack with Typescript (Mongodb, Expressjs, Vuejs, Nodejs), it's using CRUD functionalities",
+	"main": "server/dist/index.js",
+	"scripts": {
+		"start": "server/dist/index.js"
+	},
+	"keywords": [
+		"mongodb",
+		"express",
+		"vue",
+		"nodejs",
+		"posts app",
+		"typeScript",
+		"MEVN stack app"
+	],
+	"author": "Mohssine Aboutaj",
+	"license": "MIT"
+}
